@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/dev-blog',
-  title: 'Blogging by sagwa',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  pathPrefix: '/',
+  url: 'https://saravega.dev',
+  title: 'digital lab',
+  subtitle: 'Junior developer, professional tinkerer.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 5,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'sara vega',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Ada Developers Academy Graduate (C15) - Amazon FEE',
     contacts: {
       email: '',
       facebook: '#',
