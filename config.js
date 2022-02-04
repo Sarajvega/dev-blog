@@ -3,8 +3,8 @@
 module.exports = {
   pathPrefix: '/',
   url: 'https://saravega.dev',
-  title: 'digital lab',
-  subtitle: 'Junior developer, professional tinkerer.',
+  title: 'sara\'s digital lab',
+  subtitle: 'Software engineer, professional tinkerer.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
@@ -12,32 +12,32 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'articles',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'about me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'resources',
+      path: '/pages/resources'
     }
   ],
   author: {
     name: 'sara vega',
     photo: '/photo.jpg',
-    bio: 'Ada Developers Academy Graduate (C15) - Amazon FEE',
+    bio: 'Software engineer, professional tinkerer.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'sarajessvega17@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'Sarajvega',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'sara-j-vega',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

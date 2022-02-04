@@ -1,13 +1,14 @@
 ---
-title: "About me"
+title: "about me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/look-down.JPG"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hey! I'm a horticulturalist turned software developer. Curious by nature, I explore everthing that piques my interest. This is a space where I document my learnings and experiments.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I'm at the beginning of my career as a software engineer, having just finished my internship at Amazon and bootcamp experience at [Ada Developers Academy](https://adadevelopersacademy.org/) January 28th 2022, I now turn my sights to [ShopBop](https://www.shopbop.com/), which I'll be joining this year. I'm excited to continue to cultivate my skills and learn from all these smart people.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![A photo of club moss on the forest floor, bright green with small, matte microphull leaves ](/media/look-down.JPG)
+
+*Lycopodium clavatum - club moss. You'll be surprised by what you can see when you look down and look close.*
